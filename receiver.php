@@ -1,5 +1,5 @@
 <?php
-include_once "callback_json/BSBizMsgCrypt.php";
+include_once "BSBizMsgCrypt.php";
 
 // 北森上事件订阅器设置的Key信息
 $token = "";
